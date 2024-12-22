@@ -1,5 +1,8 @@
 # End-to-end data pipeline and analysis of Tokyo Olympic data using Azure services
 
+![image](https://github.com/user-attachments/assets/3ba8773f-5a18-4284-aafa-f4f81b589292)
+
+
 - Created a storage account in Azure and created two folders to store raw data and transform data
 
 ![image](https://github.com/user-attachments/assets/dd00610d-a5d1-486a-a81a-183cf754252a)
